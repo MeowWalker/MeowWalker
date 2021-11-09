@@ -20,4 +20,4 @@ Meu Portifólio de Layouts:</br>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MeowWalker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
- ![Snake animation](https://github.com/MeowWalker/MeowWalker/blob/output/github-contribution-grid-snake.svg)
+
